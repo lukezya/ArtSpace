@@ -9,6 +9,14 @@ ArtSpace is an Android app that serves as a digital gallery, showcasing various 
 
 ## Screenshots
 
-![Screenshot 1](screenshots/ArtSpace1.png)
-![Screenshot 2](screenshots/ArtSpace2.png)
-![Screenshot 3](screenshots/ArtSpace3.png)
+<p align="center">
+  <img src="screenshots/ArtSpace1.png" alt="Screenshot 1" width="400" />
+</p>
+
+<p align="center">
+  <img src="screenshots/ArtSpace2.png" alt="Screenshot 2" width="400" />
+</p>
+
+<p align="center">
+  <img src="screenshots/ArtSpace3.png" alt="Screenshot 3" width="400" />
+</p>
